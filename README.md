@@ -1,11 +1,98 @@
-### Hi, Usman here👋
-- 🎓 Graduated in BS(CS) from FAST University.
-- 👨‍💻 I am a Data Scientist and Software/Mobile Application developer.
-- 🌱 I’m currently learning Data Science, Machine Learning, Flutter and Android Java.
-## 💻 Tech Stack:
-![C/C++](https://img.shields.io/badge/C/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-ffffff?style=flat&logo=flutter&logoColor=blue) ![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=blue) ![JAVA](https://img.shields.io/badge/JAVA-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)  ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Bash Script](https://img.shields.io/badge/Bash_Script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![NextCloud](https://img.shields.io/badge/NextCloud-ffffff.svg?style=flat&logo=nextcloud&logoColor=blue) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-ffffff.svg?style=flat&logo=mysql&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF.svg?style=flat&logo=mongodb&logoColor=dark-green) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=Firebase&logoColor=yellow) ![Subabase](https://img.shields.io/badge/Subabase-%2300000f.svg?style=flat&logo=supabase&logoColor=dark-green) ![Postgresql](https://img.shields.io/badge/PostgreSQL-ffffff.svg?style=flat&logo=postgresql&logoColor=30648b) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-000000.svg?style=flat&logo=streamlit&logoColor=red) ![Selenium](https://img.shields.io/badge/Selenium-FFFFFF.svg?style=flat&logo=selenium&logoColor=dark-green) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-ffffff.svg?style=flat&logo=fastapi&logoColor=019587) ![Seaborn](https://img.shields.io/badge/Seaborn-ffffff.svg?style=flat&logo=seaborn&logoColor=019587) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=matplotlib&logoColor=black) ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-FFFFFF.svg?style=flat&logo=anaconda&logoColor=dark-green) ![AndroidStudio](https://img.shields.io/badge/Android_Studio-FFFFFF.svg?style=flat&logo=androidstudio&logoColor=blue) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-ffffff.svg?style=flat&logo=github&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-## 📊 GitHub Stats
-![Status](https://github-readme-stats.vercel.app/api?username=usman619&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=usman619&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=usman619&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+<h1 align="center">Hi, Usman here</h1>
+
+<p align="center">
+  <a href="https://usman619.github.io/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=24&pause=1000&color=6E7681&vCenter=true&width=440&lines=AI%2FML+Engineer;Data+Scientist;Python+Developer;Flutter+Developer" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  <a href="https://usman619.github.io/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=fff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-usman-2162a8228"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="mailto:usmanshahab191@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=fff" alt="Email" /></a>
+</p>
+
+---
+
+## About
+
+<p align="justify">
+I am currently in the process of completing my Masters Degree in Artificial Intelligence at FAST NUCES, Islamabad. Building data-driven and AI-powered project, machine learning pipelines, LLM agents, backend APIs, cross-platform mobile apps and also taking part in acdemic research.
+
+Currently learning AI agents, LLM applications, and Reinforcement learning.
+</p>
+
+## Education & Certifications
+ 
+- **MS in Artificial Intelligence** | FAST NUCES, Islamabad
+- **BS in Computer Science** | FAST NUCES, Peshawar (2024)
+- **Generative AI for Data Scientists 2** | IBM (Coursera)
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/C-000?style=flat-square&logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-000?style=flat-square&logo=cplusplus&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-000?style=flat-square&logo=dart&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=fff)
+![Solidity](https://img.shields.io/badge/Solidity-000?style=flat-square&logo=solidity&logoColor=fff)
+![Bash](https://img.shields.io/badge/Bash-000?style=flat-square&logo=gnubash&logoColor=fff)
+
+**AI and Machine Learning**
+
+![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=fff)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=flat-square&logo=numpy&logoColor=fff)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikitlearn&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000?style=flat-square&logo=plotly&logoColor=fff)
+![Streamlit](https://img.shields.io/badge/Streamlit-000?style=flat-square&logo=streamlit&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=fff)
+![LangGraph](https://img.shields.io/badge/LangGraph-000?style=flat-square&logoColor=fff)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=flat-square&logoColor=fff)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=fff)
+![Claude](https://img.shields.io/badge/Claude-000?style=flat-square&logo=claude&logoColor=fff)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=flat-square&logo=openai&logoColor=fff)
+![Gemini](https://img.shields.io/badge/Gemini-000?style=flat-square&logo=googlegemini&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-000?style=flat-square&logo=n8n&logoColor=fff)
+
+**Backend & Mobile**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=fff)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=flat-square&logo=flutter&logoColor=fff)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=flat-square&logo=selenium&logoColor=fff)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000?style=flat-square&logo=androidstudio&logoColor=fff)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=fff)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=fff)
+![SQLite](https://img.shields.io/badge/SQLite-000?style=flat-square&logo=sqlite&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=flat-square&logo=supabase&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=fff)
+
+**Cloud & Tooling**
+
+![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=fff)
+![Railway](https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway&logoColor=fff)
+![Heroku](https://img.shields.io/badge/Heroku-000?style=flat-square&logo=heroku&logoColor=fff)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000?style=flat-square&logo=digitalocean&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=fff)
+![Postman](https://img.shields.io/badge/Postman-000?style=flat-square&logo=postman&logoColor=fff)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=fff)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-000?style=flat-square&logo=nextcloud&logoColor=fff)
+
+## GitHub
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=usman619&hide_border=true&theme=transparent" alt="streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>Always open to new projects and collaborations.</b><br/>
+  <sub><a href="mailto:usmanshahab191@gmail.com">usmanshahab191@gmail.com</a> · <a href="https://usman619.github.io/">usman619.github.io</a></sub>
+</p>
