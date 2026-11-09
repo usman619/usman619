@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Usman here</h1>
 
 <p align="center">
-  <a href="https://usman619.github.io/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=24&pause=1000&color=6E7681&vCenter=true&width=440&lines=AI%2FML+Engineer;Data+Scientist;Python+Developer;Flutter+Developer" alt="Typing SVG" /></a>
+  <a href="https://usman619.github.io/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&size=24&pause=1000&color=6E7681&center=true&vCenter=true&width=440&lines=AI%2FML+Engineer;Data+Scientist;Python+Developer;Flutter+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
